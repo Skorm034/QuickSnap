@@ -26,6 +26,7 @@ namespace CardGames
 			{
 				myGame.Start ();
 			}
+
 		}
 
 		/// <summary>
